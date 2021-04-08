@@ -188,10 +188,10 @@ activity_second.xml
 
 
 
-  [1]: https://github.com/lone-dreamer/IMD1813003/blob/master/lab4/1.png
-  [2]: https://github.com/lone-dreamer/IMD1813003/blob/master/lab4/2.png
-  [3]: https://github.com/lone-dreamer/IMD1813003/blob/master/lab4/3.png
-  [4]: https://github.com/lone-dreamer/IMD1813003/blob/master/lab4/4.png
-  [5]: https://github.com/lone-dreamer/IMD1813003/blob/master/lab4/5.png
-  [6]: https://github.com/lone-dreamer/IMD1813003/blob/master/lab4/6.png
-  [7]: https://github.com/lone-dreamer/IMD1813003/blob/master/lab4/practice.mp4
+  [1]: https://github.com/lone-dreamer/IMD1813003/blob/master/lab4/practice/1.png
+  [2]: https://github.com/lone-dreamer/IMD1813003/blob/master/lab4/practice/2.png
+  [3]: https://github.com/lone-dreamer/IMD1813003/blob/master/lab4/practice/3.png
+  [4]: https://github.com/lone-dreamer/IMD1813003/blob/master/lab4/practice/4.png
+  [5]: https://github.com/lone-dreamer/IMD1813003/blob/master/lab4/practice/5.png
+  [6]: https://github.com/lone-dreamer/IMD1813003/blob/master/lab4/practice/6.png
+  [7]: https://github.com/lone-dreamer/IMD1813003/blob/master/lab4/practice/practice.mp4
