@@ -7,3 +7,5 @@
 
 4. [Lab 4](https://github.com/lone-dreamer/IMD1813003/tree/master/lab4)
 
+4. [Lab 5](https://github.com/lone-dreamer/IMD1813003/tree/master/lab5)
+
