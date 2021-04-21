@@ -11,3 +11,4 @@
 
 6. [Lab 6](https://github.com/lone-dreamer/IMD1813003/tree/master/lab6)
 
+7. [Lab 7](https://github.com/lone-dreamer/IMD1813003/tree/master/lab7)
