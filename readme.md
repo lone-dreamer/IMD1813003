@@ -18,3 +18,5 @@
 9. [Lab 9](https://github.com/lone-dreamer/IMD1813003/tree/master/lab9)
 
 10. [Lab 10](https://github.com/lone-dreamer/IMD1813003/tree/master/lab10)
+
+11. [Lab 11](https://github.com/lone-dreamer/IMD1813003/tree/master/lab11)
